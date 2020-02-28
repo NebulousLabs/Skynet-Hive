@@ -11,6 +11,15 @@ Here is a list of some of the Skynet applications out there. This list can be us
 
 ## Potential Apps
 In addition to the list above, there is a list of different types of applications that can be built on Skynet and leverage this awesome new tech.
+- Backup tools
+- Extensions to video streaming apps like Plex
+- Games that are hosted on Skynet
+- JAMstack integrations
+- Skynet integration for https://dappnode.io/
+- App that creates unique links to a file. Lets you limit how many times a file can be downloaded from a unique link. This is for webshops selling digital goods to be sure a file isn’t just shared.
+- Wetransfer clone: upload file that is automatically deleted after 7 days. You get a message/email when a file is downloaded.
+- Escrow: your client puts crypto in escrow that is released when you upload a file. A link is automatically shared with the client.
+- File pool: lets you pool files together. You can access pooled files if your shared files are accepted by x(3) other participants. Also, limit filetypes per pool. E.g create pool just for .wav files and .cvs files
 - A tool to bookmark and share other Skynet applications and files
 - A desktop app for browsing Skynet without using a centralized portal
 - Migrating existing apps from https://awesome.ipfs.io/ to Skynet
