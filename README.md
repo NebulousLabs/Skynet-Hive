@@ -1,4 +1,7 @@
 # Skynet-Hive
+
+> :warning: This repo has been archived and moved under the new [SkynetHQ](https://github.com/SkynetHQ) repo [here](https://github.com/SkynetHQ/Skynet-Hive)
+
 A list of awesome Skynet applications
 
 ## Skynet Applications
